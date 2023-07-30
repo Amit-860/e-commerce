@@ -1,0 +1,15 @@
+Hi, i am Amit, i have 2 year's of exprience, i started my carrer from infosys and am presently working there,
+
+currently i am assigned to mateo project at slumberg india, 
+
+working as test automation engineer reponsible for creating , automating and maintaining test suit,
+
+Mateo is pure API based project and it api services is being consumed by multiple other project.
+
+We use JMeter for process automation (process genearally means replicating users flow, user authentication and then perform some series of action)
+
+and we also use python to check data inegrety and consistecy b/w mateo and other sub-system,
+
+since there is huge data flow happen from mateo to other sub-system and vice versa.
+
+yeah that's about it. thank you
